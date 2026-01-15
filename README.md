@@ -56,4 +56,4 @@ Love collaborating, taking ownership, and turning ideas into reality.
 
 ---
 
-⭐ **Thanks for visiting! Feel free to explore my repositories and connect!** ⭐
+ **Thanks for visiting! Feel free to explore my repositories and connect!** ⭐
