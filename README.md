@@ -1,22 +1,18 @@
-## Hi there 👋
-# 💫 About Me:
-🔧 **I'm currently working on**  
-💻 Full-stack development, 🤖 AI/ML, and 📊 DSA
+# 💫 Hi 👋, I'm Ritesh Rajput
+### A passionate Java Full Stack Developer || AI/ML Enthusiast || Problem Solver from India
 
-👥 **I'm looking to collaborate on**  
-🌟 Open-source projects and 🚀 scalable AI/ML applications
+📧 **Email Me 👉 ✉️ riteshrajputt21@gmail.com For Collaboration/Project or Anything Else. 😊😊**
 
-🆘 **I'm looking for help with**  
-☁️ Cloud technologies and 🔍 exploring new tech stacks
+---
 
-🎓 **I'm currently learning**  
-🐳 Docker, ⚙️ Kubernetes, and ☁️ AWS
-
-💬 **Ask me about**  
-⚡ JavaScript, ⚛️ React, ☕ Java, 🍃 Spring Boot
-
-⚡ **Fun fact**  
-I code better with music 🎵 and chai ☕
+* 🔭 **I'm currently working on:** Full-stack web applications using Spring Boot and React, while exploring AI/ML implementations
+* 🌱 **I'm currently learning:** Docker, Kubernetes, AWS, and advanced Data Structures & Algorithms
+* 👯 **I'm looking to collaborate on:** Open-source projects, scalable AI/ML applications, and innovative full-stack solutions
+* 🤔 **I'm looking for help with:** Cloud technologies, system design patterns, and exploring new tech stacks
+* 💬 **Ask me about:** JavaScript, React, Java, Spring Boot, DSA, or anything related to full-stack development
+* 📫 **How to reach me:** riteshrajputt21@gmail.com
+* 😄 **Pronouns:** Ritesh/He/Him
+* ⚡ **Fun fact:** I code better with music 🎵 and chai ☕ - My superpower is turning caffeine into code!
 
 
 ## 🌐 Socials:
