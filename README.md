@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ritesh Rajput
 ### A passionate Java Full Stack Developer || AI/ML Enthusiast || Problem Solver from India
 
-📧 **Email Me 👇 ✉️
+📧 **Email Me  👉  ✉️
 riteshrajputt21@gmail.com For Collaboration/Project or Anything Else. 😊**
 
 ---
