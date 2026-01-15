@@ -1,14 +1,7 @@
 # 💫 Hi 👋, I'm Ritesh Rajput
 ### A passionate Java Full Stack Developer || AI/ML Enthusiast || Problem Solver from India
 
-Passionate Java Full Stack Developer who loves building clean, scalable applications. 
-From writing my first line of code in engineering to now exploring AI/ML, Docker, Kafka, 
-and System Design - I'm driven by the idea that code can solve real problems and simplify lives.
 
-Currently seeking full-time opportunities to contribute, learn, and grow. 
-Love collaborating, taking ownership, and turning ideas into reality.
-
-📩 Let's connect: riteshrajputt21@gmail.com , For Collaboration/Project or Anything Else. 😊
 
 ---
 
