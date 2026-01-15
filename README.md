@@ -12,7 +12,6 @@ riteshrajputt21@gmail.com For Collaboration/Project or Anything Else. 😊**
 * 🤔 **I'm looking for help with:** Cloud technologies, system design patterns, and exploring new tech stacks
 * 💬 **Ask me about:** JavaScript, React, Java, Spring Boot, DSA, or anything related to full-stack development
 * 📫 **How to reach me:** riteshrajputt21@gmail.com
-* 😄 **Pronouns:** Ritesh/He/Him
 * ⚡ **Fun fact:** I code better with music 🎵 and chai ☕!
 
 
@@ -30,8 +29,5 @@ riteshrajputt21@gmail.com For Collaboration/Project or Anything Else. 😊**
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ritesh-21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ritesh-21&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💭 Thoughts
+> **They're not thinking about you at all. You have things to do.**-->
