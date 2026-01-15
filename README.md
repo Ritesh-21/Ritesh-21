@@ -1,7 +1,8 @@
 # 💫 Hi 👋, I'm Ritesh Rajput
 ### A passionate Java Full Stack Developer || AI/ML Enthusiast || Problem Solver from India
 
-📧 **Email Me 👉 ✉️ riteshrajputt21@gmail.com For Collaboration/Project or Anything Else. 😊😊**
+📧 **Email Me 👇 ✉️
+riteshrajputt21@gmail.com For Collaboration/Project or Anything Else. 😊**
 
 ---
 
@@ -12,7 +13,7 @@
 * 💬 **Ask me about:** JavaScript, React, Java, Spring Boot, DSA, or anything related to full-stack development
 * 📫 **How to reach me:** riteshrajputt21@gmail.com
 * 😄 **Pronouns:** Ritesh/He/Him
-* ⚡ **Fun fact:** I code better with music 🎵 and chai ☕ - My superpower is turning caffeine into code!
+* ⚡ **Fun fact:** I code better with music 🎵 and chai ☕!
 
 
 ## 🌐 Socials:
