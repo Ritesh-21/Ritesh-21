@@ -18,7 +18,7 @@ Love collaborating, taking ownership, and turning ideas into reality.
 * 🤔 **I'm looking for help with:** Cloud technologies, system design patterns, and exploring new tech stacks
 * 💬 **Ask me about:** JavaScript, React, Java, Spring Boot, DSA, or anything related to full-stack development
 * 📫 **How to reach me:** riteshrajputt21@gmail.com
-* ⚡ **Fun fact:** I code better with music 🎵 and chai ☕!
+* ⚡ **Fun fact:** I code better with music 🎵 and chai ☕ !
 
 ---
 
